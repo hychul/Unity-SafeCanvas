@@ -1,0 +1,45 @@
+# ========================= #
+# Unity generated #
+# ========================= #
+[Tt]emp/
+[Oo]bj/
+[Uu]nityGenerated/
+[Ll]ibrary/
+[Bb]uild/
+[Bb]uilds/
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+# ========================= #
+# IDE generated #
+# ========================= #
+[Ee]xported[Oo]bj/
+*.tmp
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vs
+*.vscode
+.idea/
+/Assets/Plugins/Editor/JetBrains/
+/Assets/Plugins/Editor/JetBrains.meta
+# ========================= #
+# OS generated #
+# ========================= #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+GraphicsSettings.asset
+ProjectSettings.asset
+ProjectVersion.txt
