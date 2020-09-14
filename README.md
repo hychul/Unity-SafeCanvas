@@ -2,7 +2,7 @@
 
 # SafeAreaCanvas
 
-![unity_version](https://img.shields.io/badge/Unity-2018.1-blue.svg?style=flat-square) ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+![unity_version](https://img.shields.io/badge/Unity-2020.1-blue.svg?style=flat-square) ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 Unity plugin to handle safe area super easily :D
 
